@@ -5,3 +5,4 @@ ddddddd123
 eeeeeee
 ddddddd666666
 eeeeeee777777123
+int a[] a=new a[2];
